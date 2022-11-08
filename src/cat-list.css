@@ -1,0 +1,10 @@
+.cat-list {
+    display: flex;
+    width: 1200px;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    margin: 0 auto;
+
+    
+}
